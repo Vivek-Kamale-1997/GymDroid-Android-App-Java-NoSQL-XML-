@@ -1,4 +1,4 @@
-# GymDroid-Android-App-Java-NoSQL-XML-
+# GymDroid-Android-App-Java-SQLite-XML-
 
 This was my last year project.
 I have added the entire black book(UML,Codes,diagrams) for the complete understanding of my prject.
@@ -8,5 +8,5 @@ College: Pillai(PCACS),Panvel
 OS: Android
 Languages used: 
 Event handling:Java
-Backend/database: NoSQL
+Backend/database: SQLite
 Frontend: XML
